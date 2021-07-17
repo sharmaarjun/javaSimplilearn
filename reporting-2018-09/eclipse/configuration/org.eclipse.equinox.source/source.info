@@ -1,0 +1,10 @@
+#encoding=UTF-8
+#version=1
+com.beust.jcommander.source,1.78.0,../../../.p2/pool/plugins/com.beust.jcommander.source_1.78.0.jar,-1,false
+org.apache-extras.beanshell.bsh.source,2.0.0.b6,../../../.p2/pool/plugins/org.apache-extras.beanshell.bsh.source_2.0.0.b6.jar,-1,false
+org.eclipse.rap.tools.intro.source,3.6.0.20180717-1215,../../../.p2/pool/plugins/org.eclipse.rap.tools.intro.source_3.6.0.20180717-1215.jar,-1,false
+org.eclipse.rap.tools.launch.rwt.source,3.6.0.20180717-1215,../../../.p2/pool/plugins/org.eclipse.rap.tools.launch.rwt.source_3.6.0.20180717-1215.jar,-1,false
+org.eclipse.rap.tools.launch.source,3.6.0.20180717-1215,../../../.p2/pool/plugins/org.eclipse.rap.tools.launch.source_3.6.0.20180717-1215.jar,-1,false
+org.eclipse.rap.tools.templates.source,3.6.0.20180912-0855,../../../.p2/pool/plugins/org.eclipse.rap.tools.templates.source_3.6.0.20180912-0855.jar,-1,false
+org.testng.source,7.3.0.r202008060316,../../../.p2/pool/plugins/org.testng.source_7.3.0.r202008060316.jar,-1,false
+org.yaml.snakeyaml.source,1.21.0,../../../.p2/pool/plugins/org.yaml.snakeyaml.source_1.21.0.jar,-1,false
